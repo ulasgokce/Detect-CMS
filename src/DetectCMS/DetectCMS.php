@@ -50,7 +50,7 @@ class DetectCMS
     {
 
         /*
-         * Common, easy way first: check for Generator metatags or Generator headers
+         * Common, easy way first: check for Generator metatags or Generator headers new
          */
 
         foreach ($this->systems as $system_name) {
